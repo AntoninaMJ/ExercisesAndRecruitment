@@ -1,4 +1,4 @@
-package recruintmentTests;
+package recruitmentTests;
 
 import java.util.Arrays;
 

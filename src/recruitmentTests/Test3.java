@@ -1,6 +1,4 @@
-package recruintmentTests;
-
-import java.util.Arrays;
+package recruitmentTests;
 
 public class Test3 {
 

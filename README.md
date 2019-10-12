@@ -1,4 +1,4 @@
 tests from codility
 https://app.codility.com/programmers/lessons
 
-tests for recruinment
+tests for for recruitment
