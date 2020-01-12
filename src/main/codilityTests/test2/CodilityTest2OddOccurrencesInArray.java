@@ -1,4 +1,4 @@
-package codilityTests.test2;
+package main.codilityTests.test2;
 
 public class CodilityTest2OddOccurrencesInArray {
     public static void main(String[] args) {

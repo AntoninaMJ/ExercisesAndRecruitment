@@ -1,4 +1,4 @@
-package recruitmentTests;
+package main.recruitmentTests;
 
 public class Test1 {
 

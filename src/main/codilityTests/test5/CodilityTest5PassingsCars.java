@@ -1,4 +1,4 @@
-package codilityTests.test5;
+package main.codilityTests.test5;
 
 public class CodilityTest5PassingsCars {
 

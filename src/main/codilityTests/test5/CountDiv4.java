@@ -1,4 +1,4 @@
-package codilityTests.test5;
+package main.codilityTests.test5;
 
 public class CountDiv4 {
     public static void main(String[] args) {

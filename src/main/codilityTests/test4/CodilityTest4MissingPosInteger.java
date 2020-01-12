@@ -1,4 +1,4 @@
-package codilityTests.test4;
+package main.codilityTests.test4;
 
 import java.util.Arrays;
 

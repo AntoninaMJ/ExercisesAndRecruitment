@@ -1,4 +1,4 @@
-package recruitmentTests;
+package main.recruitmentTests;
 
 import java.util.HashSet;
 import java.util.Set;

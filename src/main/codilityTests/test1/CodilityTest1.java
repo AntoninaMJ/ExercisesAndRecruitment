@@ -4,7 +4,7 @@
 //                                                  //
 //////////////////////////////////////////////////////
 
-package codilityTests.test1;
+package main.codilityTests.test1;
 
 public class CodilityTest1 {
 

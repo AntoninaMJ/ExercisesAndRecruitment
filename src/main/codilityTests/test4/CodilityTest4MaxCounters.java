@@ -1,4 +1,4 @@
-package codilityTests.test4;
+package main.codilityTests.test4;
 
 public class CodilityTest4MaxCounters {
 
