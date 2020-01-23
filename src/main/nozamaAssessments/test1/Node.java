@@ -3,6 +3,7 @@ package main.nozamaAssessments.test1;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
+import java.util.Objects;
 
 public class Node {
     private int data;
@@ -31,6 +32,9 @@ public class Node {
     }
 
     public static Node toDoNode(Integer... values) {
+        if(values.length == 0) {
+            return null;
+        }
         return toDoNode(new ArrayList<>(Arrays.asList(values)));
     }
 
@@ -60,5 +64,19 @@ public class Node {
             node.next = mergeLists(node1, node2.next);
         }
         return node;
+    }
+
+    @Override
+    public boolean equals(Object o) {
+        if (this == o) return true;
+        if (o == null || getClass() != o.getClass()) return false;
+        Node node = (Node) o;
+        return data == node.data &&
+                Objects.equals(next, node.next);
+    }
+
+    @Override
+    public int hashCode() {
+        return Objects.hash(data, next);
     }
 }

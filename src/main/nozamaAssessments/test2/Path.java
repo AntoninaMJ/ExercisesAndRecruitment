@@ -3,7 +3,7 @@ package main.nozamaAssessments.test2;
 import java.util.LinkedList;
 import java.util.List;
 
-public class Solution {
+public class Path {
 
     private int columnCount;
     private int rowCount;
@@ -20,16 +20,6 @@ public class Solution {
             maxValue = Math.max(maxValue, value);
         }
         return maxValue;
-    }
-
-    public static void main(String[] args) {
-        int columnCount = 3;
-        int rowCount = 3;
-        int[][] mat = {{6,1,6}, {4, 5,7}, {2,3,8}};
-        //max of mins = 4
-
-        Solution solution = new Solution();
-        System.out.println(solution.solution(columnCount, rowCount, mat));
     }
 
     private void path(int currentRow, int currentColumn, List<Integer> path) {
