@@ -1,6 +1,6 @@
-package test.java.nozamaAssesments.test2;
+package test.java.recruitmentTestsNozama.test2;
 
-import main.nozamaAssessments.test2.Path;
+import main.recruitmentTestsNozama.test2.Path;
 import org.junit.Assert;
 import org.junit.Test;
 

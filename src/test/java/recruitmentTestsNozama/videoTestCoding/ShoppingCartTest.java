@@ -1,6 +1,6 @@
-package test.java.nozamaAssesments.videoTestCoding;
+package test.java.recruitmentTestsNozama.videoTestCoding;
 
-import main.nozamaAssessments.videoTestCoding.*;
+import main.recruitmentTestsNozama.videoTestCoding.*;
 import org.junit.Assert;
 import org.junit.Test;
 

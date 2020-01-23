@@ -1,4 +1,4 @@
-package main.nozamaAssessments.test1;
+package main.recruitmentTestsNozama.test1;
 
 import java.util.ArrayList;
 import java.util.Arrays;

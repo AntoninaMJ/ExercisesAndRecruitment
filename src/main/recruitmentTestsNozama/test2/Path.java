@@ -1,4 +1,4 @@
-package main.nozamaAssessments.test2;
+package main.recruitmentTestsNozama.test2;
 
 import java.util.LinkedList;
 import java.util.List;

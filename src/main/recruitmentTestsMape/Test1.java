@@ -1,4 +1,4 @@
-package main.recruitmentTests;
+package main.recruitmentTestsMape;
 
 public class Test1 {
 

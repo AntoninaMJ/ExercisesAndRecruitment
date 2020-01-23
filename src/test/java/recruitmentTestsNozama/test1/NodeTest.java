@@ -1,10 +1,9 @@
-package test.java.nozamaAssesments.test1;
+package test.java.recruitmentTestsNozama.test1;
 
 
 import static org.junit.Assert.*;
 
-import main.nozamaAssessments.test1.Node;
-import org.junit.Before;
+import main.recruitmentTestsNozama.test1.Node;
 import org.junit.Test;
 
 import java.util.ArrayList;

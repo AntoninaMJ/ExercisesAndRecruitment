@@ -1,4 +1,4 @@
-package main.recruitmentTests;
+package main.recruitmentTestsMape;
 
 import java.util.HashSet;
 import java.util.Set;

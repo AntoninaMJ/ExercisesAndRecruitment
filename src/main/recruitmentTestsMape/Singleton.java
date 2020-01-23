@@ -1,4 +1,4 @@
-package main.recruitmentTests;
+package main.recruitmentTestsMape;
 
 //singleton pattern - only one instance
 public class Singleton {
