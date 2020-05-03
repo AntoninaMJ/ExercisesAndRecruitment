@@ -14,10 +14,9 @@ public class LoopsII {
 
             int intResult = a + b;
             String stringResult = String.valueOf(intResult);
-            int potega = 1;
+
             for (int j = 1; j < n; j++) {
-                potega = 2 * potega;
-                intResult = intResult + potega * b;
+                intResult = (int) (intResult + Math.pow(2, j) * b);
                 stringResult = stringResult + " " + intResult;
             }
             System.out.println(stringResult);
